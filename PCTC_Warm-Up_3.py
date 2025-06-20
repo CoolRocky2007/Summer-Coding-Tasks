@@ -6,3 +6,4 @@ elif num%8 <= 4:
     print(num-(num%8))
 else:
     print(num+(8-(num%8)))
+#2/3 Partial Score
