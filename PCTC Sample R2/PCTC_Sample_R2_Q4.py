@@ -8,3 +8,4 @@ string = ""
 for i in range(y):
     string += x
 print(string)
+#10/10 Full Score
